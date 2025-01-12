@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Nandan-108
 - 👀 I’m interested in competitive programming
 - 🌱 I’m currently learning advanced data structure
-- 💞️ I’m looking to collaborate on microsoft
 - 📫 How to reach me  nayaknandannn108@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
